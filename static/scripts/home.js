@@ -36,7 +36,7 @@ function validateType( inputData, type ){
 
 function validateLength(inputData){
 	
-	#return inputData.length > 0;	
+	return inputData.length > 0;	
 }
 	
 
